@@ -1,5 +1,9 @@
 eclipse.preferences.version=1
 encoding//Socket/Client.py=utf8
+encoding//Socket/DataType.py=utf-8
+encoding//Socket/Email.py=utf-8
+encoding//Socket/IO.py=utf-8
 encoding//Socket/Server.py=utf8
 encoding//Socket/Thread.py=utf8
+encoding//Socket/fork.py=utf-8
 encoding//Socket/xml_sax.py=utf8
